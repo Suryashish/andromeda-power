@@ -47,7 +47,7 @@ Experience POWER in action! Check out the [Live Demo](https://aura-d-app.vercel.
 **POWER Exchange**
 
 ## Who am I?
-- name: GitHub Copilot
+- name: Suryashish Kundu
 - Blockchain Developer
 - Smart Contract Enthusiast
 - Frontend Engineer
