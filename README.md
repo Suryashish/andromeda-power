@@ -6,6 +6,8 @@
 ## Project Description
 POWER is a decentralized application (dApp) built on the Andromeda Protocol, introducing a dynamic meme coin designed to supercharge your crypto journey. With a focus on instant energy, seamless transactions, and secure reliability, POWER offers an electrifying exchange experience for users looking to energize their portfolios. Buy, trade, and unlock new possibilities with the most vibrant coin in the market.
 
+Embeddable link - https://embeddables.testnet.andromedaprotocol.io/constantine-3/powerexchange-dapp
+
 ## Key Features
 - **Meme Coin "POWER"**: A coin that energizes your crypto portfolio and captures the playful spirit of the community.
 - **Decentralized Exchange**: Swap mechanism enabling direct conversion of supported tokens for **POWER**.
